@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Disney rejection letter</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc sameAs="https://lettersofnote.com/2009/09/09/the-creative-work-is-performed-by-young-men/">
+                <p>Encoded by the summer 2020 LINCS/CWRC/Orlando URAs cohort</p>
+            </sourceDesc>
+        </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData></teiHeader>
+    <text>
+        <body>
+            <pb facs="https://live.staticflickr.com/1129/632255233_213684641e_o.jpg" n="1"/><div type="letter">
+                
+
+                <head>Disney Rejection to Woman, 1938</head><ab> June 21sy 1938</ab>
+
+                <ab>Miss Mary V. Ford</ab>
+                <ab>Searcy</ab>
+                <ab>Arkansas</ab>
+
+                <ab>Dear Miss Ford </ab>
+
+                <ab>Your letter of recent date has been received in the Inking and Painting
+                    Department for reply.</ab>
+                <ab>Women do not do any of the creative work in connection with preparing the
+                    cartoons for the screen, as that work is performed entirely by young men. For
+                    this reason girls are not considered for the training school.</ab>
+                <ab>The only work open to women consists of tracing the characters on clear
+                    celluloid sheets with Indian ink and filling in the tracings on the reverse side
+                    with paint according to directions.</ab>
+                <ab>In order to apply for a position as “Inker” or “Painter” it is necessary that
+                    one appear at the Studio, bringing samples of pen and ink and water color work.
+                    It would not be advisable to come to Hollywood with the above specifically in
+                    view, as there are really very few openings in comparison with the number of
+                    girls who apply.</ab>
+
+
+                <ab>Yours very truly,</ab>
+                <ab>WALT DISNEY PRODUCTIONS, LTD.</ab>
+
+                <ab>By:</ab>
+                <ab>(Signed)</ab>
+            </div>
+        </body>
+    </text>
+</TEI>
